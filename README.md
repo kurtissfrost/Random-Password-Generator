@@ -74,7 +74,7 @@ admin@kurtissfrost.com</a><br /><br />
 
 ---
 <br/>
-<a href="https://www.buymeacoffee.com/frostkurti0z"><img src= "https://img.shields.io/badge/Buy_Me-A_Coffee-FFDD00?style=for-the-badge&logo=buy+me+a+coffee&logoColor=ffffff"></a></img>
+<a href="https://www.buymeacoffee.com/frostkurti0"><img src= "https://img.shields.io/badge/Buy_Me-A_Coffee-FFDD00?style=for-the-badge&logo=buy+me+a+coffee&logoColor=ffffff"></a></img>
 
 
 

@@ -1,4 +1,4 @@
-<p style="text-align:center;"><img src="readme_banner.png" alt="banner"></p>
+<center><img src="readme_banner.png" alt="banner"></center>
 
 <br /><br />
 

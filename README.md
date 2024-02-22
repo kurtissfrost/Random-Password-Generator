@@ -11,11 +11,6 @@
 [![Blog - dev.to](https://img.shields.io/badge/blog-dev.to-000000?)](https://dev.to/kurtissfrost)
 </center><br /><br />
 
-# Useful Links:
-
-- <h2><a href = "mailto:admin@kurtissfrost.com?subject=[🐞 Bug Report] RNG Password Generator">🐞 Bug Report</a></h2>
-- <h2><a href = "mailto:admin@kurtissfrost.com?subject=[💻 Contributing] RNG Password Generator">💻 Contribute to the Project</a></h2>
-
 <br /><br />
 
 # What is it? 
